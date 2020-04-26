@@ -1,0 +1,3 @@
+[submodule "src/crazyflie_ros"]
+	path = src/crazyflie_ros
+	url = https://github.com/whoenig/crazyflie_ros
