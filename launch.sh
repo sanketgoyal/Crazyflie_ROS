@@ -1,7 +1,7 @@
 #!/bin/sh
 xterm  -e  "roslaunch multiranger slam_gmapping_pr2.launch " &
-sleep 5
-xterm  -e  " rosrun multiranger test5.py " & 
+# sleep 5
+# xterm  -e  " rosrun multiranger test5.py " & 
 sleep 5
 # xterm  -e  "  rosrun multiranger test6.py " & 
 # sleep 5
